@@ -18,7 +18,7 @@ A desktop application to encrypt and decrypt images using pixel shuffling and XO
 
      python main.py
 
-## 📷 Supported Formats
+## Supported Formats
 
    - .png, .jpg, .jpeg, .bmp
 
@@ -28,4 +28,6 @@ A desktop application to encrypt and decrypt images using pixel shuffling and XO
 
    - Each pixel’s RGB values are XORed using portions of the key
 
-   - Decryption reverses the process using the same key 
+   - Decryption reverses the process using the same key
+## APP PREVIEW 
+![App Preview](https://github.com/Raiyan-RB19/PRODIGY_CS_02/blob/569500c9d3dbbe51159e72f7070a5021dac8e048/Screenshot.png)

@@ -1,4 +1,4 @@
-# 🔐 Image Encryptor GUI
+# 🔐 Image Encryptor TOOL
 
 A desktop application to encrypt and decrypt images using pixel shuffling and XOR operations. Built with Python, Pillow, and ttkbootstrap.
 

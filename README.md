@@ -30,4 +30,4 @@ A desktop application to encrypt and decrypt images using pixel shuffling and XO
 
    - Decryption reverses the process using the same key
 ## APP PREVIEW 
-![App Preview](https://github.com/Raiyan-RB19/PRODIGY_CS_02/blob/569500c9d3dbbe51159e72f7070a5021dac8e048/Screenshot.png)
+![App Preview](https://github.com/Raiyan-RB19/PRODIGY_CS_02/blob/569500c9d3dbbe51159e72f7070a5021dac8e048/Screenshot.png)                         ![App Preview](https://github.com/Raiyan-RB19/PRODIGY_CS_02/blob/7e38e255ac7fdcd3b87f679650e167b323e906ea/Encryption.png)![App Preview](https://github.com/Raiyan-RB19/PRODIGY_CS_02/blob/7e38e255ac7fdcd3b87f679650e167b323e906ea/Decryption.png)
